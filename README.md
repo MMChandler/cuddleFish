@@ -1,5 +1,5 @@
 # cuddleFish
-This was a college CompSci project to create an encrypted chat application. 
+This was a college CompSci project to create an encrypted chat application, completed in December of 2014. 
 
 CuddleFish is the very beginnings of what could be a larger project--if I'd had more time, 
 I would have enjoyed making it into a secure audio/video chat, perhaps even with some VPN 
