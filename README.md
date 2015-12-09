@@ -9,3 +9,6 @@ To run the program you have to first run the server file, then run two or more i
 the applet file. The program can handle multiple threads, and will display the cipher text in
 the console window. You type in one applet, and it encrypts your text and displays it in any 
 other open applet, yet is secure in transit.
+
+Project details and research are available in the file "Senior Project Report" pdf, inside 
+the secure chat file.
